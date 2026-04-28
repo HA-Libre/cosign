@@ -1,3 +1,7 @@
+> [!NOTE]
+> Home Assistant uses the official builds of cosign now. These builds should no
+> longer be used.
+
 # cosign
 
 Sigstore cosign repository for Home Assistant
